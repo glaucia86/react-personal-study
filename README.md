@@ -1,6 +1,6 @@
 # React Personal Study
 
-Repositório responsável por estudar e aprender React com diversos cursos e projetos. 
+Repositório responsável por estudar e aprender React com diversos cursos e projetos. Com intuito de aprimorar mais ainda o meu conhecimento no framework. 
 
 ## Recursos Utilizados
 
