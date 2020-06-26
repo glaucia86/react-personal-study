@@ -2,13 +2,13 @@
 
 Repositório responsável por estudar e aprender React com diversos cursos e projetos. Com intuito de aprimorar mais ainda o meu conhecimento no framework. 
 
-## Recursos Utilizados
+## 🚀 Recursos Utilizados
 
 - **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=react_personal_study-github-gllemos)**
 - **[Node.js](https://nodejs.org/en/)**
 - **[React.js](https://pt-br.reactjs.org/)**
 
-## Lista de Projetos e Cursos estudados
+## 📕 Lista de Projetos e Cursos estudados
 
 - **[Starter: Curso JavaScript - RocketSeat](starter-javascript-rocketseat/README.md)**
 - **[Starter: Curso ES6 - RocketSeat](starter-es6-rocketseat/README.md)**
