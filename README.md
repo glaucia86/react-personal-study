@@ -17,4 +17,6 @@ Repositório responsável por estudar e aprender React com diversos cursos e pro
 - **[Starter: Curso React Native - RocketSeat](starter-reactnative-rocketseat/README.md)**
 - **[Modern React with Redux by Stephen Grider - Udemy](modern-react-stephengrider/README.md)**
 
+**documentação em desenvolvimento**
+
 
