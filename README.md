@@ -4,7 +4,7 @@ Repositório responsável por estudar e aprender React com diversos cursos e pro
 
 ## 🚀 Recursos Utilizados
 
-- **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=react_personal_study-github-gllemos)**
+- **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)**
 - **[Node.js](https://nodejs.org/en/)**
 - **[React.js](https://pt-br.reactjs.org/)**
 
